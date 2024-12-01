@@ -1,2 +1,5 @@
 # Evon-Excuter
-Download as a zip extract ten run with Roblox open
+# Download as a zip extract then run with Roblox open
+
+
+# works for both micrsoft Roblox and Web Roblox
