@@ -1,4 +1,4 @@
-# Evon Executor
+# Evon Excuter
 
 A free and powerful Lua script executor for Roblox. With Evon Executor, execute scripts effortlessly and enhance your gaming experience. Regular updates ensure compatibility and top-notch performance.
 
