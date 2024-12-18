@@ -43,7 +43,7 @@ This tool is for educational purposes only. The creators are not responsible for
 
 ### 🔗 Links
 
-- **Discord**: [Join our Discord](https://discord.gg/MhcCwFnE)
+- **Discord**: [Join our Discord](https://discord.gg/TJzPBxEk)
 
 ---
 
